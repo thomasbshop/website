@@ -1,3 +1,5 @@
 .DS_Store
+# the line below means anything in the given path.
 *~
 tmp/
+.vscode
